@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shreyansh Jain</h1>
 <h3 align="center">A Passionate Learner</h3>
 
-<img src='https://e0.pxfuel.com/wallpapers/193/88/desktop-wallpaper-ideas-programming-humor-code-pc-funny-coding-thumbnail.jpg' alt='Programming' align='center' width='600'></img>
+<img src='https://e0.pxfuel.com/wallpapers/193/88/desktop-wallpaper-ideas-programming-humor-code-pc-funny-coding-thumbnail.jpg' alt='Programming' align='center' width='700'></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0504shreyansh&label=Profile%20views&color=0e75b6&style=flat" alt="0504shreyansh" /> </p>
 
